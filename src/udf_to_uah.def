@@ -1,0 +1,6 @@
+LIBRARY		udf_to_uah
+VERSION		1.0
+EXPORTS
+  to_uah_init
+  to_uah_deinit
+  to_uah
